@@ -22,4 +22,4 @@ Once pip has finished downloading the dependencies:
 
 And navigate to http://127.0.0.1:8000
 
-Please view the Assignment Solution Pdf.
+Please view Assignment Solution Pdf for the output result.
